@@ -7,9 +7,9 @@ I'm 22, and navigating the intricate world of High Tech Engineering at TUDelft i
 
 
   <a href="https://github.com/ricdigi">
-    <img height="195" src="https://github-readme-stats.vercel.app/api?username=ricdigi&show_icons=true&count_private=false&include_all_commits=true&exclude_forks=true&theme=default" />
+    <img height="120" src="https://github-readme-stats.vercel.app/api?username=ricdigi&show_icons=true&count_private=false&include_all_commits=true&exclude_forks=true&theme=default" />
   </a>
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricdigi&langs_count=10&layout=compact&exclude_repo=REPO1,REPO2&exclude_forks=true&theme=default" />
+    <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricdigi&langs_count=10&layout=compact&exclude_repo=REPO1,REPO2&exclude_forks=true&theme=default" />
   </a>
 
