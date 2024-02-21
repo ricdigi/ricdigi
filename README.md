@@ -1,6 +1,6 @@
 # Ciao a tutti! 👋 I'm Riccardo from Italy 🇮🇹
 
-I'm 22, and navigating the intricate world of High Tech Engineering at TUDelft in the Netherlands 🇳🇱. My passion for coding is about connecting, sharing, and creating with a global community.
+I'm 22, and navigating the intricate world of High Tech Engineering at TUDelft in the Netherlands 🇳🇱. I love to connect, share, and create with a global community.
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ricdigi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riccardodigirolamo01/)
